@@ -85,4 +85,15 @@ Service Acess Protocol -> 운영체제의 형태로 구현되어 있다.
  FTP, HTTP -> TCP
 
 
- TCP-> 연결 지향형-> 
+ TCP-> 연결 지향형
+
+
+
+
+# Internet 
+
+1960년 전신과 전화망 같은 통신망 존재 
+
+
+
+
