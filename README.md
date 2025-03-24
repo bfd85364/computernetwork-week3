@@ -68,7 +68,7 @@ SCTP: 멀티미디어 제공용 (제공하는 자료를 미리 버퍼해서 가�
 
  ICMP, IGMP, DHCP(데이터 링크계층), ARP: address를 해결하기 위한 프로토콜
 
- R(reverse)ARP: rkxdms tjqj soidptj thrgks rocpdml ㅁㅇㅇㄱㄷㄴㄴfmf tjfhtjfh rkwudhrl dnlgka 
+ R(reverse)ARP: 같은 서버 내에 속하는 개체의 address를 서로서로 가져위한 프로토콜
  
  MAC Address -> 유일한 address로 lan카드에 이식됨 -> 통신간 충돌이 일어나지 않게 하기 위해 
 
